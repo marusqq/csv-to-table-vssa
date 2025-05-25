@@ -1,0 +1,10 @@
+system,database,schema,table,column,meta
+SYS1,,,,,System Info
+,SYS1DB,,,,DB Info
+,,SCH1,,,Schema Info
+,,,TBL1,,Table Info
+,,,,COL1,Column Info
+,,,,COL2,Column Info
+,,SCH2,,,Another Schema
+,,,TBL2,,Table 2
+,,,,COL3,Column 3

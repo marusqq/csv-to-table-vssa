@@ -63,7 +63,7 @@ def calculate_tree_nodes(tree_rows: list, seniority_columns: list[str]):
     rows_with_seniority = []
 
     # loop through each row and find the first column that has a value
-    for row_idx, tree_row in enumerate(tree_rows):
+    for tree_row in tree_rows:
 
         row_seniority = None
 
@@ -85,7 +85,7 @@ def calculate_tree_nodes(tree_rows: list, seniority_columns: list[str]):
 
         # if failed to find a value in seniority columns, raise an error
         if row_seniority is None:
-            raise ValueError(f"Row {row_idx} has no value in tree columns")
+            raise ValueError(f"Row {tree_row} has no value for any of '{', '.join(seniority_columns)}' columns")
 
         rows_with_seniority.append({
             "row": tree_row,

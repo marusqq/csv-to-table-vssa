@@ -1,0 +1,169 @@
+database,table,column,type,title
+DB1,,,,DB1 metadata
+,TBL1,,Table name,
+,,COL1,string,Name
+,,COL2,boolean,Updated
+,,COL3,integer,Created
+,,COL4,string,Value
+,,COL5,string,Type
+,,COL6,float,Name
+,,COL7,string,ID
+,,COL8,integer,Updated
+,,COL9,string,Value
+,,COL10,integer,Value
+,TBL2,,Table name,
+,,COL1,float,Updated
+,,COL2,float,Type
+,,COL3,boolean,Name
+,,COL4,integer,Amount
+,,COL5,boolean,Status
+,,COL6,integer,Updated
+,,COL7,boolean,ID
+,,COL8,string,Amount
+,,COL9,string,Flag
+,,COL10,boolean,Type
+,TBL3,,Table name,
+,,COL1,boolean,Name
+,,COL2,float,Value
+,,COL3,string,Amount
+,,COL4,string,Value
+,,COL5,boolean,Type
+,,COL6,boolean,Type
+,,COL7,integer,ID
+,,COL8,string,Updated
+,,COL9,boolean,ID
+,,COL10,integer,ID
+,TBL4,,Table name,
+,,COL1,float,Status
+,,COL2,float,Flag
+,,COL3,integer,Flag
+,,COL4,boolean,Updated
+,,COL5,boolean,ID
+,,COL6,integer,Value
+,,COL7,integer,Created
+,,COL8,float,Amount
+,,COL9,boolean,Value
+,,COL10,integer,Flag
+,TBL5,,Table name,
+,,COL1,string,Updated
+,,COL2,string,Flag
+,,COL3,float,Status
+,,COL4,string,Updated
+,,COL5,boolean,Updated
+,,COL6,float,Amount
+,,COL7,float,Created
+,,COL8,boolean,Created
+,,COL9,integer,Value
+,,COL10,boolean,Type
+DB2,,,,DB2 metadata
+,TBL1,,Table name,
+,,COL1,float,Type
+,,COL2,float,Flag
+,,COL3,integer,Created
+,,COL4,float,ID
+,,COL5,string,ID
+,,COL6,integer,Created
+,,COL7,float,Type
+,,COL8,string,Amount
+,,COL9,float,Type
+,,COL10,float,Value
+,TBL2,,Table name,
+,,COL1,boolean,Value
+,,COL2,string,ID
+,,COL3,boolean,Flag
+,,COL4,string,Status
+,,COL5,float,Created
+,,COL6,float,Name
+,,COL7,boolean,Value
+,,COL8,integer,Value
+,,COL9,string,Status
+,,COL10,integer,Created
+,TBL3,,Table name,
+,,COL1,boolean,Created
+,,COL2,string,Type
+,,COL3,boolean,Count
+,,COL4,string,ID
+,,COL5,boolean,Status
+,,COL6,integer,Name
+,,COL7,integer,Type
+,,COL8,string,ID
+,,COL9,float,ID
+,,COL10,integer,Created
+,TBL4,,Table name,
+,,COL1,float,Value
+,,COL2,integer,Status
+,,COL3,float,Updated
+,,COL4,integer,Status
+,,COL5,float,Flag
+,,COL6,float,Value
+,,COL7,float,ID
+,,COL8,integer,Updated
+,,COL9,string,Flag
+,,COL10,string,Type
+,TBL5,,Table name,
+,,COL1,integer,Type
+,,COL2,integer,Name
+,,COL3,string,Name
+,,COL4,integer,ID
+,,COL5,string,Flag
+,,COL6,string,Value
+,,COL7,integer,Status
+,,COL8,float,Updated
+,,COL9,integer,Type
+,,COL10,float,Updated
+DB3,,,,DB3 metadata
+,TBL1,,Table name,
+,,COL1,float,Amount
+,,COL2,integer,ID
+,,COL3,string,Amount
+,,COL4,boolean,Amount
+,,COL5,float,Count
+,,COL6,string,ID
+,,COL7,string,Amount
+,,COL8,boolean,ID
+,,COL9,integer,Updated
+,,COL10,integer,Value
+,TBL2,,Table name,
+,,COL1,float,Created
+,,COL2,float,Created
+,,COL3,boolean,Count
+,,COL4,integer,ID
+,,COL5,float,Value
+,,COL6,string,Name
+,,COL7,string,ID
+,,COL8,integer,Created
+,,COL9,float,Count
+,,COL10,float,Updated
+,TBL3,,Table name,
+,,COL1,float,Name
+,,COL2,integer,Amount
+,,COL3,string,Amount
+,,COL4,boolean,Count
+,,COL5,boolean,Amount
+,,COL6,float,Created
+,,COL7,integer,Status
+,,COL8,integer,Name
+,,COL9,string,Flag
+,,COL10,string,Name
+,TBL4,,Table name,
+,,COL1,float,Value
+,,COL2,integer,Name
+,,COL3,string,Created
+,,COL4,string,Type
+,,COL5,string,Updated
+,,COL6,float,ID
+,,COL7,integer,Type
+,,COL8,string,Type
+,,COL9,string,Amount
+,,COL10,boolean,Status
+,TBL5,,Table name,
+,,COL1,integer,Flag
+,,COL2,integer,Status
+,,COL3,float,Created
+,,COL4,boolean,Count
+,,COL5,boolean,ID
+,,COL6,string,Count
+,,COL7,string,ID
+,,COL8,integer,Value
+,,COL9,boolean,Created
+,,COL10,boolean,ID
